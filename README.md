@@ -14,6 +14,6 @@ npm install eslint-config-pink --save-dev
 
 `
 module.exports = {
-  extends: ["hrtps"],
+  extends: ["pink"],
 };
 `
