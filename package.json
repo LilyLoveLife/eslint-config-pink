@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npm publish —registry=http://registry.npmjs.org/"
+    "publish": "npm publish —registry=https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -42,6 +42,6 @@
     "typescript": "^5.1.3"
   },
   "publicConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   } 
 }
